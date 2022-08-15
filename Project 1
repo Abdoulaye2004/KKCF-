@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+  <title>Brookln Nets Fanpage</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://pavbca.com/walldb/original/7/b/9/401831.jpg");
+      background-size: contain;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 26px; 
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <p>Hello this is a Brooklyn Nets fanpage sign below to join the best team! </p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
